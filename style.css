@@ -344,10 +344,10 @@ text-decoration: none;
  
 }
 .signup_btn:hover .signup_icon {
-   content: url('/images/arrowhover.svg'); 
+   content: url('images/arrowhover.svg'); 
 }
   .call_btn:hover .call_icon {
-     content: url('/images/callhover.svg');
+     content: url('images/callhover.svg');
 }
 
 .signup_btn img, 
